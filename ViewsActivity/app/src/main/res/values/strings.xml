@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewsActivity</string>
+    <string name="First_Page">First_Page</string>
+    <string name="About_us">Hello World! My name is bunny</string>
+</resources>
