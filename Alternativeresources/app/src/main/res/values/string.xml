@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FAAlternativeResources</string>
+    <string name="text1">Bonjour le monde</string>
+    <string name="text2">J\'aime les poulets</string>
+    <string name="text3">je dîne</string>
+</resources>
